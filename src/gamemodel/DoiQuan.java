@@ -2,7 +2,7 @@ package gamemodel;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//
 public class DoiQuan {
     private String tendoiquan;
     private List<BinhDoan> dsbd;

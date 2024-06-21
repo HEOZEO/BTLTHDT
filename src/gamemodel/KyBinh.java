@@ -1,5 +1,5 @@
 package gamemodel;
-
+//
 public class KyBinh extends NhanVat {
     private int tocDoNgua;
 

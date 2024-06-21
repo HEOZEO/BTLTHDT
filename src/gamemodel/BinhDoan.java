@@ -1,5 +1,5 @@
 package gamemodel;
-
+//
 public class BinhDoan {
     private String tenbinhdoan;
     private DoiQuan doi;

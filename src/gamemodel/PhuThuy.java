@@ -1,5 +1,5 @@
 package gamemodel;
-
+//
 public class PhuThuy extends NhanVat {
     private int nangLuong;
 

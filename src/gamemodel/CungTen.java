@@ -1,5 +1,5 @@
 package gamemodel;
-
+//
 public class CungTen extends VuKhi {
     private int soMuiTen;
 

@@ -1,5 +1,5 @@
 package gamemodel;
-
+//
 public abstract class VuKhi implements Cloneable {
     private int satThuong;
 

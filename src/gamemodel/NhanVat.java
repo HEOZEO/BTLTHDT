@@ -1,5 +1,5 @@
 package gamemodel;
-
+//
 public abstract class NhanVat implements TanCong {
     private String ten;
     private int mau;
